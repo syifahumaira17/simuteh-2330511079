@@ -1,0 +1,241 @@
+kelas,aturan,jumlah,acuan,galat
+sehat,tanpa saring,8,0,8
+sehat,luas >= 20,7,0,7
+sehat,luas + kebulatan,3,0,3
+sehat,luas + kebulatan + rasio,1,0,1
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,9,0,9
+sehat,luas >= 20,5,0,5
+sehat,luas + kebulatan,5,0,5
+sehat,luas + kebulatan + rasio,1,0,1
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,6,0,6
+sehat,luas >= 20,5,0,5
+sehat,luas + kebulatan,4,0,4
+sehat,luas + kebulatan + rasio,3,0,3
+sehat,tanpa saring,3,0,3
+sehat,luas >= 20,2,0,2
+sehat,luas + kebulatan,1,0,1
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,12,0,12
+sehat,luas >= 20,11,0,11
+sehat,luas + kebulatan,6,0,6
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,3,0,3
+sehat,luas >= 20,1,0,1
+sehat,luas + kebulatan,1,0,1
+sehat,luas + kebulatan + rasio,1,0,1
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,6,0,6
+sehat,luas >= 20,4,0,4
+sehat,luas + kebulatan,3,0,3
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,12,0,12
+sehat,luas >= 20,8,0,8
+sehat,luas + kebulatan,2,0,2
+sehat,luas + kebulatan + rasio,1,0,1
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,10,0,10
+sehat,luas >= 20,4,0,4
+sehat,luas + kebulatan,4,0,4
+sehat,luas + kebulatan + rasio,1,0,1
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,2,0,2
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,1,0,1
+sehat,luas >= 20,1,0,1
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,0,0,0
+sehat,luas >= 20,0,0,0
+sehat,luas + kebulatan,0,0,0
+sehat,luas + kebulatan + rasio,0,0,0
+sehat,tanpa saring,3,0,3
+sehat,luas >= 20,2,0,2
+sehat,luas + kebulatan,2,0,2
+sehat,luas + kebulatan + rasio,1,0,1
+ringan,tanpa saring,8,3,5
+ringan,luas >= 20,7,3,4
+ringan,luas + kebulatan,4,3,1
+ringan,luas + kebulatan + rasio,3,3,0
+ringan,tanpa saring,3,3,0
+ringan,luas >= 20,3,3,0
+ringan,luas + kebulatan,3,3,0
+ringan,luas + kebulatan + rasio,3,3,0
+ringan,tanpa saring,3,3,0
+ringan,luas >= 20,3,3,0
+ringan,luas + kebulatan,3,3,0
+ringan,luas + kebulatan + rasio,3,3,0
+ringan,tanpa saring,0,1,1
+ringan,luas >= 20,0,1,1
+ringan,luas + kebulatan,0,1,1
+ringan,luas + kebulatan + rasio,0,1,1
+ringan,tanpa saring,3,2,1
+ringan,luas >= 20,2,2,0
+ringan,luas + kebulatan,2,2,0
+ringan,luas + kebulatan + rasio,2,2,0
+ringan,tanpa saring,9,2,7
+ringan,luas >= 20,4,2,2
+ringan,luas + kebulatan,4,2,2
+ringan,luas + kebulatan + rasio,2,2,0
+ringan,tanpa saring,2,1,1
+ringan,luas >= 20,1,1,0
+ringan,luas + kebulatan,1,1,0
+ringan,luas + kebulatan + rasio,1,1,0
+ringan,tanpa saring,3,1,2
+ringan,luas >= 20,1,1,0
+ringan,luas + kebulatan,1,1,0
+ringan,luas + kebulatan + rasio,1,1,0
+ringan,tanpa saring,2,2,0
+ringan,luas >= 20,2,2,0
+ringan,luas + kebulatan,2,2,0
+ringan,luas + kebulatan + rasio,1,2,1
+ringan,tanpa saring,8,3,5
+ringan,luas >= 20,7,3,4
+ringan,luas + kebulatan,4,3,1
+ringan,luas + kebulatan + rasio,4,3,1
+ringan,tanpa saring,12,3,9
+ringan,luas >= 20,11,3,8
+ringan,luas + kebulatan,3,3,0
+ringan,luas + kebulatan + rasio,2,3,1
+ringan,tanpa saring,3,2,1
+ringan,luas >= 20,2,2,0
+ringan,luas + kebulatan,2,2,0
+ringan,luas + kebulatan + rasio,2,2,0
+ringan,tanpa saring,5,1,4
+ringan,luas >= 20,3,1,2
+ringan,luas + kebulatan,2,1,1
+ringan,luas + kebulatan + rasio,2,1,1
+ringan,tanpa saring,3,3,0
+ringan,luas >= 20,3,3,0
+ringan,luas + kebulatan,3,3,0
+ringan,luas + kebulatan + rasio,3,3,0
+ringan,tanpa saring,7,3,4
+ringan,luas >= 20,6,3,3
+ringan,luas + kebulatan,4,3,1
+ringan,luas + kebulatan + rasio,3,3,0
+ringan,tanpa saring,9,1,8
+ringan,luas >= 20,8,1,7
+ringan,luas + kebulatan,3,1,2
+ringan,luas + kebulatan + rasio,1,1,0
+ringan,tanpa saring,15,3,12
+ringan,luas >= 20,11,3,8
+ringan,luas + kebulatan,9,3,6
+ringan,luas + kebulatan + rasio,7,3,4
+ringan,tanpa saring,10,2,8
+ringan,luas >= 20,8,2,6
+ringan,luas + kebulatan,3,2,1
+ringan,luas + kebulatan + rasio,2,2,0
+ringan,tanpa saring,0,1,1
+ringan,luas >= 20,0,1,1
+ringan,luas + kebulatan,0,1,1
+ringan,luas + kebulatan + rasio,0,1,1
+ringan,tanpa saring,3,2,1
+ringan,luas >= 20,2,2,0
+ringan,luas + kebulatan,2,2,0
+ringan,luas + kebulatan + rasio,2,2,0
+berat,tanpa saring,10,9,1
+berat,luas >= 20,10,9,1
+berat,luas + kebulatan,9,9,0
+berat,luas + kebulatan + rasio,8,9,1
+berat,tanpa saring,6,6,0
+berat,luas >= 20,6,6,0
+berat,luas + kebulatan,6,6,0
+berat,luas + kebulatan + rasio,6,6,0
+berat,tanpa saring,9,6,3
+berat,luas >= 20,8,6,2
+berat,luas + kebulatan,6,6,0
+berat,luas + kebulatan + rasio,5,6,1
+berat,tanpa saring,8,8,0
+berat,luas >= 20,8,8,0
+berat,luas + kebulatan,8,8,0
+berat,luas + kebulatan + rasio,8,8,0
+berat,tanpa saring,10,10,0
+berat,luas >= 20,10,10,0
+berat,luas + kebulatan,10,10,0
+berat,luas + kebulatan + rasio,10,10,0
+berat,tanpa saring,9,9,0
+berat,luas >= 20,9,9,0
+berat,luas + kebulatan,9,9,0
+berat,luas + kebulatan + rasio,9,9,0
+berat,tanpa saring,7,7,0
+berat,luas >= 20,7,7,0
+berat,luas + kebulatan,7,7,0
+berat,luas + kebulatan + rasio,7,7,0
+berat,tanpa saring,11,11,0
+berat,luas >= 20,11,11,0
+berat,luas + kebulatan,11,11,0
+berat,luas + kebulatan + rasio,11,11,0
+berat,tanpa saring,5,8,3
+berat,luas >= 20,5,8,3
+berat,luas + kebulatan,5,8,3
+berat,luas + kebulatan + rasio,5,8,3
+berat,tanpa saring,11,9,2
+berat,luas >= 20,10,9,1
+berat,luas + kebulatan,10,9,1
+berat,luas + kebulatan + rasio,9,9,0
+berat,tanpa saring,12,5,7
+berat,luas >= 20,10,5,5
+berat,luas + kebulatan,6,5,1
+berat,luas + kebulatan + rasio,4,5,1
+berat,tanpa saring,7,7,0
+berat,luas >= 20,7,7,0
+berat,luas + kebulatan,7,7,0
+berat,luas + kebulatan + rasio,7,7,0
+berat,tanpa saring,11,10,1
+berat,luas >= 20,10,10,0
+berat,luas + kebulatan,10,10,0
+berat,luas + kebulatan + rasio,10,10,0
+berat,tanpa saring,6,6,0
+berat,luas >= 20,5,6,1
+berat,luas + kebulatan,5,6,1
+berat,luas + kebulatan + rasio,5,6,1
+berat,tanpa saring,13,7,6
+berat,luas >= 20,12,7,5
+berat,luas + kebulatan,11,7,4
+berat,luas + kebulatan + rasio,11,7,4
+berat,tanpa saring,12,12,0
+berat,luas >= 20,12,12,0
+berat,luas + kebulatan,10,12,2
+berat,luas + kebulatan + rasio,10,12,2
+berat,tanpa saring,7,7,0
+berat,luas >= 20,7,7,0
+berat,luas + kebulatan,7,7,0
+berat,luas + kebulatan + rasio,7,7,0
+berat,tanpa saring,9,9,0
+berat,luas >= 20,9,9,0
+berat,luas + kebulatan,9,9,0
+berat,luas + kebulatan + rasio,9,9,0
+berat,tanpa saring,11,11,0
+berat,luas >= 20,11,11,0
+berat,luas + kebulatan,11,11,0
+berat,luas + kebulatan + rasio,11,11,0
+berat,tanpa saring,13,8,5
+berat,luas >= 20,11,8,3
+berat,luas + kebulatan,10,8,2
+berat,luas + kebulatan + rasio,9,8,1
